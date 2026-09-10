@@ -67,4 +67,4 @@ qué resuelve y con qué está construido.
 
 ---
 
-Creado por VMSofts
+Creado por Ing. Víctor Maldonado — VMSofts
